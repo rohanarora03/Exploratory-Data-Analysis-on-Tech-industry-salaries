@@ -1,13 +1,7 @@
-# Tech-industry-salaries
-
-Goal: Perform exploratory data analysis on the prospects of tech jobs using this dataset: https://www.kaggle.com/datasets/thedevastator/know-your-worth-tech-salaries-in-2016
-
-GitHub Repository Description:
-
-**Title: Exploratory Data Analysis on 2016 Hacker News Salary Survey**
+# Exploratory Data Analysis on 2016 Hacker News Salary Survey
 
 **Description:**
-This repository contains an exploratory data analysis (EDA) on the 2016 Hacker News Salary Survey dataset, conducted to gain insights into the global salary and experience landscape based on user survey responses.
+This repository contains an exploratory data analysis (EDA) on the 2016 Hacker News Salary Survey dataset [Kaggle Dataset](https://www.kaggle.com/datasets/thedevastator/know-your-worth-tech-salaries-in-2016), conducted to gain insights into the global salary and experience landscape based on user survey responses.
 
 **Key Highlights:**
 - **Dataset Overview:** The dataset comprises approximately 1655 responses across 19 parameters from the 2016 Hacker News Salary Survey, offering insights into pay rates, geographical distribution, job titles, and their categories.
